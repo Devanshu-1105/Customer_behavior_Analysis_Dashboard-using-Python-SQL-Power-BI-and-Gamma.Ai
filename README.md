@@ -119,3 +119,11 @@ Strong focus on business impact, not just visuals
 Ability to convert raw data into clear strategic insights
 
 Practical use of Python, SQL, and Power BI together
+
+![Customer_behavior_Analysis_Dashboard-using-Python-SQL-Power-BI-and-Gamma.Ai](images/Dashboard_image.png)
+
+---
+
+
+
+
